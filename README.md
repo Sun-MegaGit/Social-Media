@@ -1,6 +1,7 @@
 # Social-Media
 Instagram &amp; Facebook Performance Dashboard
 Social Media Performance Insights – Instagram (Power BI Dashboard)
+<img width="940" height="479" alt="image" src="https://github.com/user-attachments/assets/dcd80fba-fa04-494c-b23d-4e6d773b6cc6" />
 
 
 Overview of Key Metrics (Top Left Panel)
