@@ -32,6 +32,7 @@ Content with strong messaging or hashtags tends to get shared more.
 Sharing activity is highest in the early weeks of a month and tapers off.
 
 Social Media Performance Insights – Facebook (Power BI Dashboard)
+<img width="940" height="532" alt="image" src="https://github.com/user-attachments/assets/00b8e907-ef18-40b6-861b-74db14a09d18" />
 
 
  Count by Impressions & Reach (Top Left Panel – Second Image)
